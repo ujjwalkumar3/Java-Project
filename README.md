@@ -1,1 +1,3 @@
 # Java-Project
+
+Write an application for a Tour & Travel agency which provides some tour packages which includes the details of Location, Price, Number of Nights and Hotel Category. Ask the user to choose the location and display the available packages. Ask the user to choose the package and display the details of the selected package. After selecting a particular package ask the user to customize the package. User can update the number of days and/or hotel category. Provide the rates for different hotel categories and increased number of nights. Display the Price after the chosen customization by the user. After customization, display the final package of the student.
